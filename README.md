@@ -1,9 +1,13 @@
 # ごぼうとにんじん炒めたやつ
+- [README(Japanese)](https://github.com/yamaserif/kimpira_lang/blob/main/README.md)
+- [README(English)](https://github.com/yamaserif/kimpira_lang/blob/main/README_en.md)
+
 「ごぼうとにんじん炒めたやつ」はbrainfuckの派生言語です。
 
 ソースコードは、にんじんやごぼうの千切りを連想させる直線と、ごまを思わせる点にて構成されます。
 
 「きんぴらごぼう」「きんぴら」といった呼び方も許容されます。
+
 ## 言語仕様
 以下のコマンドにて、動作します。
 |bf|コマンド|説明|
@@ -32,5 +36,3 @@ Hello, world!
 
 ## インタプリタについて
 [r-fxxk](https://github.com/masarakki/r-fxxk)を使用して実装しています。
-
-
