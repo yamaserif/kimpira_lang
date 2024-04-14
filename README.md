@@ -22,12 +22,12 @@
 ## コード例
 Hello, world!
 ```
-       IIIIIIIII¡iIIIIIIIIiII
-(   IIIIIIIIIiIIIIIlll|!i.iII.I    )
- ＼IIIIII..III.i|.||||||||||||.lI／
-   ＼IIIIIII.||||||||.III.|||||／
-       --- |.||||||||.iI. ---
-         L________________」
+        IIIIIIIII¡iIIIIIIIIiII
+(    IIIIIIIIIiIIIIIlll|!i.iII.I     )
+ ＼ IIIIII..III.i|.||||||||||||.lI ／
+   ＼ IIIIIII.||||||||.III.||||| ／
+       ---  |.||||||||.iI.  ---
+          L皿皿皿皿皿皿皿皿皿」
 ```
 
 ## インタプリタについて
