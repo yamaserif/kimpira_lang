@@ -36,3 +36,6 @@ Hello, world!
 
 ## インタプリタについて
 [r-fxxk](https://github.com/masarakki/r-fxxk)を使用して実装しています。
+
+## 関連
+https://www.nicovideo.jp/watch/sm43662166
